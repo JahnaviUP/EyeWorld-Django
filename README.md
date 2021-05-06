@@ -44,4 +44,4 @@ Follow the below instructions to clone this project
 
 ## Note
 
-**The requirements.txt file has been elimated of all sensitive information. **
+**The settings.py file has been elimated of all sensitive information. **
