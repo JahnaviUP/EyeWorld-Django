@@ -19,6 +19,10 @@ When running locally, SQLite database was used & static and media files were sto
 When deploying, Heroku Postgres was used as the server database, Gunicorn and Whitenoise was set 
 up to host all the static files.
 
+## Major Technologies 
+
+The major technologies used in this project is python, javascript, Django Rest framework, bootstrap, MVT Architecture, OAuth, Design patterns, CSS, bootstrap, etc.
+
 ## Installation
 
 Follow the below instructions to clone this project
